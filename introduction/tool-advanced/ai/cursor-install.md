@@ -8,7 +8,7 @@
 
 ### Cursor
 
-<video src="./cursor-install/cursor.mp4" controls></video>
+<video src="https://vip.123pan.cn/1812373457/%E5%AD%A6%E6%A0%A1/cursor.mp4" controls></video>
 
 ### GitHub Copilot in Visual Studio Code
 
@@ -20,7 +20,7 @@
 不是插件这种形式不行（（（
 :::
 
-<video src="./cursor-install/copilot.mp4" controls></video>
+<video src="https://vip.123pan.cn/1812373457/%E5%AD%A6%E6%A0%A1/copilot.mp4" controls></video>
 
 ## 安装 & 配置
 
