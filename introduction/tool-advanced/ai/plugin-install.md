@@ -9,7 +9,7 @@
 :::
 
 ::: tip
-本教程基于前文推荐的代码编辑器/IDE [Visual Studio Code](../../../tool-basic/code-editor-ide/vscode) 和 [JetBrains IDEs](../../tool-basic/code-editor-ide/jetbrains) 展开。
+本教程基于前文推荐的代码编辑器/IDE [Visual Studio Code](../../tool-basic/code-editor-ide/vscode) 和 [JetBrains IDEs](../../tool-basic/code-editor-ide/jetbrains) 展开。
 
 如果你还没有安装 Visual Studio Code 和 JetBrains IDEs 中的其中一个，请参考上述链接完成安装。
 :::
