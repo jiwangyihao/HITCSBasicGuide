@@ -43,7 +43,6 @@ require("codemirror/addon/hint/show-hint");
 
 我一边等着学长给我回复，一边在 npm 上搜索 [`vue-codemirror`](https://www.npmjs.com/package/vue-codemirror)，然后我一看文档……人作者给的例子也不长这样啊。
 
-
 ```JavaScript
 import { Codemirror } from 'vue-codemirror'
 import { javascript } from '@codemirror/lang-javascript'

@@ -20,17 +20,17 @@
 
 1. 打开 Visual Studio Code，点击侧边栏的扩展图标。
 
-    ![vsc-home.png](plugin-install/vsc-home.png)
+   ![vsc-home.png](plugin-install/vsc-home.png)
 
 2. 搜索 `CodeGeeX`，点击安装。
 
-    ![vsc-ext-search.png](plugin-install/vsc-ext-search.png)
+   ![vsc-ext-search.png](plugin-install/vsc-ext-search.png)
 
 ### 登录
 
 1. 安装完成后，点击底栏的 `CodeGeeX` 图标，登录 CodeGeeX 账号。
 
-    ![vsc-ext-login](plugin-install/vsc-ext-login.png)
+   ![vsc-ext-login](plugin-install/vsc-ext-login.png)
 
 2. 在弹出的浏览器窗口中完成登录。
 
@@ -42,22 +42,22 @@
 
 1. 打开 JetBrains IDEs（你所安装的其中一款，比如 CLion），点击右上角的 `⚙️`->`插件`
 
-    ![jetbrains-home.png](plugin-install/jetbrains-home.png)
+   ![jetbrains-home.png](plugin-install/jetbrains-home.png)
 
 2. 在 `Marketplace` Tab 中搜索 `CodeGeeX`，点击安装。
 
-    ![jetbrains-ext-search.png](plugin-install/jetbrains-ext-search.png)
+   ![jetbrains-ext-search.png](plugin-install/jetbrains-ext-search.png)
 
 3. 安装完成后，点击`重启 IDE`。
 
-    ![jetbrains-restart.png](plugin-install/jetbrains-restart.png)
+   ![jetbrains-restart.png](plugin-install/jetbrains-restart.png)
 
 ### 登录
 
 1. 重启 IDE 后，点击底栏的 `CodeGeeX` 图标 -> `登录 CodeGeeX`，登录 CodeGeeX 账号。
 
-    ![jetbrains-ext-login](plugin-install/jetbrains-ext-login.png)
+   ![jetbrains-ext-login](plugin-install/jetbrains-ext-login.png)
 
 2. 在弹出的浏览器窗口中完成登录。
 
-    ![browser-login.png](plugin-install/browser-login.png)
+   ![browser-login.png](plugin-install/browser-login.png)
