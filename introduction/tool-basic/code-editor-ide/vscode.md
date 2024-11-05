@@ -36,7 +36,7 @@
 
    ![env-search.png](vscode/env-search.png)
 
-4. 在系统变量中找到 `Path`，点击 `编辑`。
+4. 在系统变量（或用户变量）中找到 `Path`，点击 `编辑`。
 
    ![path-edit.png](vscode/path-edit.png)
 
