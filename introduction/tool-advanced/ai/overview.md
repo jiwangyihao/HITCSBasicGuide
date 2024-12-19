@@ -4,7 +4,7 @@
 
 ## 插件
 
-### GitHub Copilot <Badge type="tip" text="推荐" /> <Badge type="warning" text="闭源" /> <Badge type="warning" text="收费" /> <Badge type="tip" text="教育用途免费" /> <Badge type="tip" text="开源用途免费" /> <Badge type="warning" text="需申请认证" />
+### GitHub Copilot <Badge type="tip" text="推荐" /> <Badge type="warning" text="闭源" /> <Badge type="warning" text="基础免费" /> <Badge type="tip" text="教育用途免费" /> <Badge type="tip" text="开源用途免费" /> <Badge type="warning" text="需申请认证" />
 
 ::: info
 适用语言：几乎全部
@@ -15,6 +15,10 @@
 :::
 
 GitHub Copilot 是由 GitHub 和 OpenAI 合作开发的一款 AI 编程助手，旨在通过自动代码生成功能来提升开发者的编码效率和质量。自2021年10月正式推出以来，GitHub Copilot 已经成为了众多开发者日常工作中不可或缺的一部分，尤其是在提高编码速度、减少重复性劳动和学习新编程语言或框架方面表现尤为突出。
+
+::: tip
+2024 年 12 月 19 日更新：GitHub Copilot 现已支持免费使用，使用政策为每月 2000 条代码建议、50 条 Copilot Chat 消息，支持 Claude 3.5 Sonnet 或 GPT-4o 模型。
+:::
 
 ::: warning 教育认证申请
 申请 GitHub 校园认证需要提供外币卡（Visa、MasterCard 等）或 PayPal 账号，银联卡无法绑定。
@@ -92,6 +96,20 @@ Cursor 是一款集成了先进语言模型（LLM）如 GPT-4 和 Claude 3.5 的
 ~~我为什么不用 VS code 加插件呢？~~
 
 红豆泥私密马赛，我检讨，我道歉，在没有 GitHub Copilot 的情况下，这就是在国内能免费用到的最强工具。
+:::
+
+### WindSurf <Badge type="tip" text="推荐" /> <Badge type="warning" text="闭源" /> <Badge type="tip" text="基础免费" />
+
+::: info
+适用语言：几乎全部
+
+官方网站：https://codeium.com/windsurf
+:::
+
+使用体验基本类似 Cursor，有独特的 Agent 功能，支持 AI 自主决策终端调用。
+
+::: tip
+会员试用期间可使用 Cursor 同款模型，可尝试删除账号重新注册以继续试用。
 :::
 
 ### bolt <Badge type="warning" text="闭源" /> <Badge type="tip" text="基础免费" />
