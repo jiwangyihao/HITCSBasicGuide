@@ -163,7 +163,7 @@ Cursor 官方已经对此方法进行了限制，当前政策为每个设备每 
 
 另，目前 GitHub Copilot 现已支持免费使用，使用政策为每月 2000 条代码建议、50 条 Copilot Chat 消息，支持 Claude 3.5 Sonnet 或 GPT-4o 模型。
 
-可尝试使用 GitHub Copilot 替代 Cursor，安装方法类似 CodeGeeX，详见 [插件型 AI 辅助编程工具安装指南](../plugin-install)。
+可尝试使用 GitHub Copilot 替代 Cursor，安装方法类似 CodeGeeX，详见 [插件型 AI 辅助编程工具安装指南](./plugin-install)。
 :::
 
 笔者的账号是使用 GitHub 注册的（理论上来说使用邮箱注册的账号也可以这样操作，但用 GitHub 注册的时候只需要授权，比邮箱注册方便一些）。
