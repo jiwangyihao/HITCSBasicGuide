@@ -107,7 +107,7 @@ export default defineConfig({
 
     editLink: {
       pattern:
-        "https://github.com/jiwangyihao/HITCSBasicGuide/edit/main/docs/:path",
+        "https://github.com/jiwangyihao/HITCSBasicGuide/edit/main/:path",
       text: "在 GitHub 上编辑此页面",
     },
 
