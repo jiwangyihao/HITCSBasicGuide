@@ -37,6 +37,7 @@ jobs:
 
       - name: Build VitePress
         run: |
+          npm -g upgrade corepack
           corepack enable
           pnpm install
           pnpm docs:build
